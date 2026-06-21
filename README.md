@@ -6,7 +6,7 @@ FastAPI backend, and a Next.js chat interface to support evidence-backed review 
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure:
 
 ```
 healthcare-rag/
