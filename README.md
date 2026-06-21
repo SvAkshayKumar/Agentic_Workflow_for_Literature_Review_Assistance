@@ -49,7 +49,7 @@ healthcare-rag/
 
 ---
 
-## 🤖 Agent Architecture
+## 🤖 Agent Architecture:
 
 ```
 User Query
